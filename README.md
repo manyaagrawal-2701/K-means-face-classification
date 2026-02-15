@@ -54,4 +54,5 @@ This project demonstrates how computer vision techniques and machine learning al
 
 ![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/08a6342c0a18c68d8f3d405109db166d43629b3c/Dr_Shashi_Tharoor.jpg]
 
+![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/25db7afc903d361342e12e092824881cee942c80/Detected%20Face%20in%20Template%20Image_screenshot_14.02.2026.png]
 
