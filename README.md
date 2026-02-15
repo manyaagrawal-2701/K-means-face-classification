@@ -48,11 +48,20 @@ The objective of this project is to detect human faces from an image using the H
 # Conclusion
 This project demonstrates how computer vision techniques and machine learning algorithms can be combined for face analysis. Haar Cascade efficiently detects faces, while K-Means clustering groups faces based on color similarity using HSV features. The approach shows that simple feature extraction combined with clustering can be effective for basic face grouping and visual pattern analysis.
 
-![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/1ddb835848c51d71187fbfbe7c2d7e256c00638c/Plaksha_Faculty.jpg]
+![Plaksha_Faculty](https://github.com/user-attachments/assets/a945022f-66b9-445c-ac74-4aa908060cba)
 
-![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/21d4ce3f5036f5e6115a1b1c3e50f0f3ec4e3d54/Total%20number%20of%20face%20detected%20are%2030_screenshot_14.02.2026.png]
 
-![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/08a6342c0a18c68d8f3d405109db166d43629b3c/Dr_Shashi_Tharoor.jpg]
+<img width="890" height="594" alt="Total number of face detected are 30_screenshot_14 02 2026" src="https://github.com/user-attachments/assets/bb2fb85e-a22d-49dc-a29a-386bcfd9c459" />
 
-![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/25db7afc903d361342e12e092824881cee942c80/Detected%20Face%20in%20Template%20Image_screenshot_14.02.2026.png]
+
+
+![Dr_Shashi_Tharoor](https://github.com/user-attachments/assets/cb7edcc7-cd94-4f1e-8985-75939de2f700)
+
+<img width="400" height="400" alt="Detected Face in Template Image_screenshot_14 02 2026" src="https://github.com/user-attachments/assets/50455c36-22ba-4122-a53c-dda4f7bb1dcf" />
+
+
+<img width="509" height="277" alt="Plot 1" src="https://github.com/user-attachments/assets/db59c432-7dcf-47ee-9a87-ca06d4456360" />
+
+
+<img width="509" height="277" alt="Template image cluster plot" src="https://github.com/user-attachments/assets/69720049-02b9-41c6-b78c-899e206b08b0" />
 
