@@ -49,3 +49,6 @@ The objective of this project is to detect human faces from an image using the H
 This project demonstrates how computer vision techniques and machine learning algorithms can be combined for face analysis. Haar Cascade efficiently detects faces, while K-Means clustering groups faces based on color similarity using HSV features. The approach shows that simple feature extraction combined with clustering can be effective for basic face grouping and visual pattern analysis.
 
 ![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/1ddb835848c51d71187fbfbe7c2d7e256c00638c/Plaksha_Faculty.jpg]
+
+![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/21d4ce3f5036f5e6115a1b1c3e50f0f3ec4e3d54/Total%20number%20of%20face%20detected%20are%2030_screenshot_14.02.2026.png]
+
