@@ -52,3 +52,6 @@ This project demonstrates how computer vision techniques and machine learning al
 
 ![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/21d4ce3f5036f5e6115a1b1c3e50f0f3ec4e3d54/Total%20number%20of%20face%20detected%20are%2030_screenshot_14.02.2026.png]
 
+![image alt][https://github.com/manyaagrawal-2701/K-means-face-classification/blob/08a6342c0a18c68d8f3d405109db166d43629b3c/Dr_Shashi_Tharoor.jpg]
+
+
